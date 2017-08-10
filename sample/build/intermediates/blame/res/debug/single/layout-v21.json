@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

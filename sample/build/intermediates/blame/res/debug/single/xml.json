@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths_private.xml",
+        "source": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\src\\main\\res\\xml\\file_paths_private.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths_public.xml",
+        "source": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\src\\main\\res\\xml\\file_paths_public.xml"
+    }
+]

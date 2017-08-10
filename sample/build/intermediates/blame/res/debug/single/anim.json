@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "Z:\\WorkPlace\\OrangeProject\\Orange_APP\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\zqw\\.android\\build-cache\\f7cd82d5924ed99d7938ce9ee8a24071fe2ee4b6\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]
