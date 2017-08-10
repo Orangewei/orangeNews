@@ -8,6 +8,7 @@ import orange.w.common.APP;
 
 /**
  * Created by Administrator on 2015/12/5.
+ 吐司工具类
  */
 public class ToastUtil {
     private static Toast toast;//单例的吐司
